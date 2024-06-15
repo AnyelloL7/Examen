@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.calculator{
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #82c680;
+    border-radius: 5px;
+    background-color: #2f327f;
+}
+input[type="button"]{
+    width: 80px;
+    height: 80px;
+    font-size: 20px;
+    margin: 5px;
+}
